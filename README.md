@@ -6,6 +6,7 @@
 
 ![Screenshot of DefectDojo](https://raw.githubusercontent.com/DefectDojo/Documentation/master/doc/img/screenshot1.png)
 
+
 [DefectDojo](https://www.defectdojo.org/) is a security program and
 vulnerability management tool.
 DefectDojo allows you to manage your application security program, maintain
