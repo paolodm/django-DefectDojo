@@ -22,7 +22,7 @@ git+https://github.com/DefectDojo/django-tastypie-swagger.git@c7c5629480dc20cadd
 django-tastypie==0.14.2
 django-watson==1.5.5
 django-prometheus==2.1.0
-Django==2.2.17
+Django==4.2.21
 djangorestframework==3.12.2
 gunicorn==20.0.4
 html2text==2020.1.16
@@ -50,7 +50,7 @@ uWSGI==2.0.19.1
 vobject==0.9.6.1
 whitenoise>=4.1.2
 titlecase==1.1.1
-social-auth-app-django==4.0.0
+social-auth-app-django==5.6.0
 Python-jose==3.2.0
 gitpython>=2.1.13
 ptvsd>=4.2.7
